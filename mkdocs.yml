@@ -15,9 +15,9 @@ nav:
   - About: about.md
 
 theme:
-  name: mkdocs
+  name: readthedocs
   analytics:
-    gtag: G-7YKR96MMSG
+    gtag: G-1QBSCMM6PM
   color_mode: auto
   nav_style: primary
   highlightjs: true
@@ -29,5 +29,10 @@ theme:
     next: 78      # n
     previous: 80  # p
     search: 83    # s
+  locale:
+    - en
+    - tr
+    - fr
+  logo: img/icon.png
 
 site_url: https://toolaugmented.ai
