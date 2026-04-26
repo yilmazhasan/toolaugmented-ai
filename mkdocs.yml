@@ -15,7 +15,7 @@ nav:
   - About: about.md
 
 theme:
-  name: readthedocs
+  name: mkdocs
   analytics:
     gtag: G-7YKR96MMSG
   color_mode: auto
