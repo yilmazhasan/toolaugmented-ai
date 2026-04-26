@@ -29,10 +29,7 @@ theme:
     next: 78      # n
     previous: 80  # p
     search: 83    # s
-  locale:
-    - en
-    - tr
-    - fr
-  logo: img/icon.png
+  locale: en
+  logo: img/fine-tuning.webp
 
 site_url: https://toolaugmented.ai
