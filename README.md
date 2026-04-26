@@ -7,6 +7,7 @@ LLM Training recipe for Function/Tool Calling.
 # Build/Serve
 - `mkdocs build`
 - `mkdocs serve`
+- `mkdocs serve --config-file ./mkdocs.yml`
 
 ## Publish
 `mkdocs gh-deploy`
