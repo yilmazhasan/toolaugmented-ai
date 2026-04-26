@@ -14,5 +14,9 @@ nav:
   - Best Practices: best-practices.md
   - About: about.md
 
-theme: readthedocs
+theme:
+  name: readthedocs
+  analytics:
+    gtag: G-1QBSCMM6PM
+
 site_url: https://toolaugmented.ai

@@ -11,4 +11,3 @@ LLM Training recipe for Function/Tool Calling.
 
 ## Publish
 `mkdocs gh-deploy`
-
